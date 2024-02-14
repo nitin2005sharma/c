@@ -1,12 +1,4 @@
-include <stdio.h>
 
-int main() {
-    int matrix[10][10], m, n;
-
-    printf("Enter the number of rows (m): ");
-    scanf("%d", &m);
-
-    printf("Enter 
 
 
 C

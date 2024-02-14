@@ -2,7 +2,7 @@
 
 int main() {
     char str1[100], str2[100];
-    int isEqual = 1; // Assume strings are equal by default
+    int isEqual = 1; 
 
    
     printf("Enter the first string: ");
